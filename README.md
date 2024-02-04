@@ -5,6 +5,8 @@ The data dashboard challenge for the Winter 2024 BIS 412 Advanced Data Visualiza
 
 ## Challenge Description
 
+The challenge is to create a dashboard that visualizes the most common types of car accidents in Seattle and where they occur. Our goal is to design an accessible platform that represents useful information that aims to show attributes of various collisions occurring in the city of Seattle. This information will hopefully help auto engineers make safety adjustments, policymakers adjust traffic safety precautions, and overall public awareness of the leading factors of car crashes. 
+
 ## Proposed Plan
 First Week:
 - Importing data to clean and process by removing unneeded information.
