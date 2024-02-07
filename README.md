@@ -18,7 +18,7 @@ Tasks to address for our challenge:
 - Display accident variables that are most common by month.
 - Find correlations and co-occurrences of different variables.
 - Provide insights into the missing data
-- Preferably the data remains live
+- Preferably, the data remains live with a connection to the data source
 
 ## Proposed Plan
 
