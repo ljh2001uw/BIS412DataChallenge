@@ -2,7 +2,7 @@
 The data dashboard challenge for the Winter 2024 BIS 412 Advanced Data Visualization course. The challenge uses data from the Seattle Department of Transportation (SDOT).
 - Challenge created by and made for the BIS 412 Advanced Data Visualization course at the University of Washington Bothell.
 - Authored by [Donny N](https://github.com/donnyn-2021674), [Eric L](https://github.com/ljh2001uw), [Jaime Y](https://github.com/lyazzie1), [Sam S](https://github.com/sam-studer)
-- Committee members: [Drake M.](https://github.com/drakemon(, [Kara Nilsson](https://github.com/karanilsson), [Rachel Gragham](https://github.com/rachelfgraham)
+- Committee members: [Drake M.](https://github.com/drakemon), [Kara Nilsson](https://github.com/karanilsson), [Rachel Gragham](https://github.com/rachelfgraham)
 - Committee chair: [Andrew Lawandy](https://github.com/andrewLawandy)
 - Edited and supervised by [Prof. Caleb Trujillo](https://github.com/calebtru)
 
@@ -53,4 +53,4 @@ The dataset is named "SDOT Collisions All Years." It encompasses a comprehensive
 The dataset aims to represent the general location and attributes of various collisions occurring in the city. The primary purpose of collecting this data is to analyze traffic collisions systematically, providing insights that can help in enhancing road safety measures, informing urban planning, and guiding policy decisions regarding traffic management in Seattle. This dataset is crucial for urban planners, policymakers, traffic authorities, and public safety officials. It helps in understanding collision patterns, identifying high-risk areas, and planning road safety improvements. The general public also benefits from increased transparency and data-driven decisions aimed at reducing collision rates and enhancing road safety. While the dataset is robust and provides a comprehensive view of traffic collisions in Seattle, it's important to note that there are instances of missing data. However, it is assessed that the missing data does not pertain to critical information that would significantly affect the analysis or the conclusions drawn from the dataset. The missing data may include certain details that, while useful for a complete picture, do not hinder the primary analyses typically conducted using this dataset, such as identifying high-risk areas, understanding the causes of collisions, or evaluating the effectiveness of road safety measures.
 
 ## Sources
-Seattle Department of Transportation. (2024). SDOT Collisions All Years [January 24, 2024]. The City of Seattle ArcGIS Online. Retrieved from [https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::sdot-collisions-all-years-2/about]
+Seattle Department of Transportation. (2024). SDOT Collisions All Years [January 24, 2024]. The City of Seattle ArcGIS Online. Retrieved from https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::sdot-collisions-all-years-2/about
