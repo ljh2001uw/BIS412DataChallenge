@@ -1,5 +1,5 @@
 # Seattle's Car Crashes
-The data dashboard challenge for the Winter 2024 BIS 412 Advanced Data Visualization course. The challenge uses data from the Seattle Department of Transportation (SDOT).
+The data dashboard challenge was created by the Winter 2024 BIS 412 Advanced Data Visualization course. The challenge uses data from the Seattle Department of Transportation (SDOT).
 - Challenge created by and made for the BIS 412 Advanced Data Visualization course at the University of Washington Bothell.
 - Authored by [Donny N](https://github.com/donnyn-2021674), [Eric L](https://github.com/ljh2001uw), [Jaime Y](https://github.com/lyazzie1), [Sam S](https://github.com/sam-studer)
 - Committee members: [Drake M.](https://github.com/drakemon), [Kara Nilsson](https://github.com/karanilsson), [Rachel Gragham](https://github.com/rachelfgraham)
